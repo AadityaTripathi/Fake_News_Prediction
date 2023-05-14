@@ -1,0 +1,114 @@
+altair @ file:///tmp/build/80754af9/altair_1599835197802/work
+appdirs==1.4.4
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+attrs==22.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
+blinker==1.4
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2022.12.7
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer==3.1.0
+click @ file:///C:/ci/click_1646056762388/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+comm @ file:///C:/b/abs_1419earm7u/croot/comm_1671231131638/work
+commonmark @ file:///Users/ktietz/demo/mc3/conda-bld/commonmark_1630649545323/work
+cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
+debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+filelock @ file:///C:/b/abs_c7yrhs9uz2/croot/filelock_1672387617533/work
+future @ file:///C:/b/abs_3dcibf18zi/croot/future_1677599891380/work
+gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
+GitPython @ file:///C:/b/abs_49tt462f1q/croot/gitpython_1674662788764/work
+htmlmin==0.1.12
+huggingface-hub @ file:///C:/b/abs_8d8wo2z8c6/croot/huggingface_hub_1667490298905/work
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+ImageHash==4.3.1
+importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
+ipykernel @ file:///C:/b/abs_b4f07tbsyd/croot/ipykernel_1672767104060/work
+ipython @ file:///C:/b/abs_d1yx5tjhli/croot/ipython_1680701887259/work
+ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
+jedi @ file:///C:/ci/jedi_1644315428305/work
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+joblib==1.2.0
+jsonschema @ file:///C:/b/abs_6ccs97j_l8/croot/jsonschema_1676558690963/work
+jupyter_client @ file:///C:/b/abs_059idvdagk/croot/jupyter_client_1680171872444/work
+jupyter_core @ file:///C:/b/abs_9d0ttho3bs/croot/jupyter_core_1679906581955/work
+jupyterlab-widgets @ file:///C:/b/abs_38ad427jkz/croot/jupyterlab_widgets_1679055289211/work
+keras @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/keras_1669760570649/work/keras-2.10.0-py2.py3-none-any.whl
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+MarkupSafe @ file:///C:/ci/markupsafe_1654508036328/work
+matplotlib==3.6.3
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934094726/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
+mkl-service==2.4.0
+multimethod==1.9.1
+nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
+networkx==3.1
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
+numpy @ file:///C:/b/abs_54abayvc9j/croot/numpy_and_numpy_base_1682520598361/work
+packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
+pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
+pandas-profiling==3.6.6
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.3
+phik==0.12.3
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.4.0
+platformdirs @ file:///C:/b/abs_73cc5cz_1u/croots/recipe/platformdirs_1662711386458/work
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
+protobuf==3.20.3
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyarrow==11.0.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.10.7
+pydeck @ file:///C:/Windows/TEMP/abs_d25851b0-2795-4554-8068-f12d67b4bbaepda393r7/croots/recipe/pydeck_1657894563802/work
+Pygments @ file:///C:/b/abs_d9h9j11ug0/croot/pygments_1683672541499/work
+Pympler @ file:///tmp/build/80754af9/pympler_1602785470644/work
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyrsistent @ file:///C:/ci_310/pyrsistent_1642117077485/work
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
+pywin32==305.1
+PyYAML==6.0
+pyzmq @ file:///C:/b/abs_8b16zbmf46/croot/pyzmq_1682697651374/work
+regex @ file:///C:/ci/regex_1658258299320/work
+requests==2.28.2
+rich @ file:///C:/Windows/TEMP/abs_7anftszm_e/croots/recipe/rich_1659708309427/work
+scipy==1.10.1
+semver @ file:///tmp/build/80754af9/semver_1603822362442/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
+soupsieve @ file:///C:/b/abs_a989exj3q6/croot/soupsieve_1680518492466/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels==0.13.5
+streamlit @ file:///C:/b/abs_fbcea49a7l/croot/streamlit_1673469537084/work
+tokenizers @ file:///C:/ci/tokenizers_1651821358528/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
+torch==1.12.1
+tornado @ file:///C:/ci/tornado_1662476985533/work
+tqdm==4.64.1
+traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
+transformers @ file:///C:/b/abs_8byf5_j714/croot/transformers_1667919454001/work
+typeguard==2.13.3
+typing_extensions==4.5.0
+tzlocal @ file:///C:/b/abs_961jok6k6w/croot/tzlocal_1668627423616/work
+urllib3==1.26.15
+validators @ file:///tmp/build/80754af9/validators_1612286467315/work
+visions==0.7.5
+watchdog @ file:///C:/ci_310/watchdog_1642113443984/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_1679313880295/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+ydata-profiling==4.1.2
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
