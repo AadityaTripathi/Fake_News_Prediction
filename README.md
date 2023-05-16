@@ -5,3 +5,5 @@ Then run app.py by using the command `streamlit run app.py` <br>
 <br>
 <br>
 Other creators : [Ayushman Tripathi](https://github.com/7AyushMan7) and [Nanditha S. Reddy](https://github.com/nanditha213)
+<br>
+<br>
